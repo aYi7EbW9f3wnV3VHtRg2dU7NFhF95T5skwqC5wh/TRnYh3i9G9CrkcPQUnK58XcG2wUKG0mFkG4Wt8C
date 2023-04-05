@@ -17,7 +17,7 @@ KRNL_LOADED and "Krnl" or
 SONA_LOADED and "Sona" or
 "Unknown exploit"
 
-if _G == "69787" or _G == "592585" or _G == "451862" or _G == "466124" or _G == "2J7rttPAgtYqC0PZi1kRCf9BUFj2en6uNRZQc0ywCAZq0WqNH4V5AbWY0wjk75tWJ3yH9DiMkGy7Aibb3Reo6M6cGUzoxdGo5nKE" or _G == "592585" or _G == "201758" or _G == "962320" or _G == "57392" or _G == "249188" or _G == "706730" or _G == "747085" or _G == "707295" or _G == "442718" or _G == "875255" or _G == "756896" or _G == "3701" then
+if _G == "69787" or _G == "319265" or _G == "592585" or _G == "451862" or _G == "466124" or _G == "2J7rttPAgtYqC0PZi1kRCf9BUFj2en6uNRZQc0ywCAZq0WqNH4V5AbWY0wjk75tWJ3yH9DiMkGy7Aibb3Reo6M6cGUzoxdGo5nKE" or _G == "592585" or _G == "201758" or _G == "962320" or _G == "57392" or _G == "249188" or _G == "706730" or _G == "747085" or _G == "707295" or _G == "442718" or _G == "875255" or _G == "756896" or _G == "3701" then
 local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/UD92IlIllllII421248535IlIIIIIIIlllIlIIl/Yeah/main/.gitignore"))()
 
 
